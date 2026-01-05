@@ -18,19 +18,19 @@ The goal of this project is to create a digital solution that ensures organized 
 
 ## Functional Requirements
 
-### 1. Register and Login (Mahad)
+### 1. Register and Login 
 The system shall allow Ophthalmologists and Patients to register an account and log in.
 
-### 2. Appointment Management (Rashad)
+### 2. Appointment Management 
 The system shall allow the Ophthalmologist to accept, reject, and reschedule appointments based on their availability.  
 It shall allow Patients to book appointments by selecting their preferred Ophthalmologist and time slot.
 
-### 3. Patient Records (Ahmad)
+### 3. Patient Records 
 The system shall allow both the Patient and the Ophthalmologist to view the patient’s appointment history and medical records.  
 The Ophthalmologist will also be able to update the record based on the diagnosis during the appointment.
 
-### 4. Billing (Rashad)
+### 4. Billing 
 The system shall allow the Ophthalmologist to track payments after the bill/invoice is generated, once the appointment is concluded.
 
-### 5. Feedback (Mahad and Ahmad)
+### 5. Feedback 
 The system shall allow the Patient to submit their feedback to the Ophthalmologist after every appointment.
