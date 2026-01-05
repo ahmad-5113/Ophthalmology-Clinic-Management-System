@@ -1,7 +1,6 @@
 USE OpthalmologyClinicDatabase;
 GO
 
-
 CREATE TABLE [Patient](
     [patient_id] INT IDENTITY(1,1) NOT NULL,
     [name] CHAR(100) NOT NULL,
